@@ -76,4 +76,10 @@ const aIMG = [
   "https://www.hamqsl.com/solarpich.php"],
 ];
 
+ /* ["YOUTUBE EXAMPLE", "iframe|https://www.youtube.com/embed/fzPFaXAV_2Y?autoplay=1&mute=1"],
+  ["WEBSITE EXAMPLE","iframe|https://globe.adsbexchange.com/?airport=YYZ",],
+  ["VIDEO EXAMPLE", "https://himawari8.nict.go.jp/movie/720/20240611_pifd.mp4"],
+
+  */
+
   const tileDelay = [8000,5000,5000,5000,8000,6000,7000,8000,9000,8500,7500,6500];
