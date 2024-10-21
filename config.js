@@ -33,10 +33,8 @@ const aURL = [
 // but you can replace the titles and the images with anything you want.
 const aIMG = [
  ["RADAR LOCAL/NATIONAL", "https://radar.weather.gov/ridge/standard/KENX_loop.gif", "https://radar.weather.gov/ridge/standard/CONUS_loop.gif"],
-  [
-    "APRS",
-    "https://n2yqt.tourge.net/yaac.png",
-  ],
+  ["APRS","iframe|https://aprs.to/?center=43.4454,-73.5827&zoom=9",],
+    //"https://n2yqt.tourge.net/yaac.png",
   [
     "NOAA D-RAP/AURORA",
     "https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png", "https://services.swpc.noaa.gov/images/animations/ovation/north/latest.jpg",
