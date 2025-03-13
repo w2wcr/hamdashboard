@@ -21,6 +21,7 @@ var aURL = [
 //Right Side Menus
   ["2196F3", "TIME.IS", "https://time.is/", "1", "R"],
   ["2196F3", "WEATHER", "https://openweathermap.org/weathermap?basemap=map&cities=true&layer=temperature&lat=44.0157&lon=-79.4591&zoom=5", "1", "R"],
+  ["2196F3", "Space Weather Conditions", "https://www.solarham.com/", "1", "R"],
   ["2196F3", "WINDS", "https://earth.nullschool.net/#current/wind/surface/level/orthographic=-78.79,44.09,3000", "1", "R"],
   ["2196F3", "LIGHTNING", "https://map.blitzortung.org/#3.87/36.5/-89.41", "1", "R"],
   ["2196F3", "AIR QUALITY", "https://map.purpleair.com/1/mAQI/a10/p604800/cC0#9.65/43.4007/-73.4936", "1", "R"],
